@@ -1,0 +1,37 @@
+{
+    "6596c04e1d3e2": {
+        "username": "admin",
+        "password": "$2y$10$saCWrNUV1H6K4lLkq5YZo.3UJMDNRyKZLPSdSF43Y9aoiF7qxusDa",
+        "email": "admin@admin.com",
+        "token": 1000,
+        "numOfCards": 17,
+        "roles": [
+            "admin"
+        ],
+        "id": "6596c04e1d3e2"
+    },
+    "6596c42330145": {
+        "username": "Krisz",
+        "password": "$2y$10$bVMCZA4hHXTg1tm1xGuwCOJ\/9kqOgjB6yEJBbe5\/txIar4DM3v7tS",
+        "email": "krisz@email.com",
+        "token": 1040,
+        "numOfCards": 3,
+        "roles": [
+            "user"
+        ],
+        "id": "6596c42330145",
+        "messages": []
+    },
+    "659e8d7617bb8": {
+        "username": "Hanna",
+        "password": "$2y$10$3dJXg1kQievNnZhzFCAtTeBMy.6v2MUHeUoA6JtZb3Fvt.yqkQYWy",
+        "email": "h@email.com",
+        "token": 836.7,
+        "roles": [
+            "user"
+        ],
+        "id": "659e8d7617bb8",
+        "numOfCards": 5,
+        "messages": []
+    }
+}

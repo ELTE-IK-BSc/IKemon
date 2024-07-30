@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#changeIcon {
+    margin: 30px;
+}
+
+
+#selectedCard {
+    border: 5px solid yellow;
+}
+

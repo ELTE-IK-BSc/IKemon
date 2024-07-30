@@ -1,0 +1,21 @@
+#details {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 90%;
+}
+
+#details .image {
+    border-radius: 8px;
+    text-align: center;
+}
+
+#details img {
+    height: auto;
+    max-width: 80%;
+}
+
+#details .info {
+    padding: 10px;
+}

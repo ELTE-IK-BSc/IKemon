@@ -1,0 +1,33 @@
+form {
+    background-color: rgb(192, 231, 231);
+    border-radius: 10px;
+    border: 1px solid lightblue;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+}
+
+form input,
+form select {
+    border-radius: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.308);
+
+}
+
+form button {
+    border-radius: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.308);
+    font-size: larger;
+    margin: 5%;
+
+}
+
+.error {
+    box-shadow: 0 0 6px 3px red;
+    position: absolute;
+    margin-left: 2%;
+    padding: 3px;
+
+}
+
