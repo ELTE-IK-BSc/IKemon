@@ -3,8 +3,8 @@
         "username": "admin",
         "password": "$2y$10$saCWrNUV1H6K4lLkq5YZo.3UJMDNRyKZLPSdSF43Y9aoiF7qxusDa",
         "email": "admin@admin.com",
-        "token": 1000,
-        "numOfCards": 17,
+        "token": 2302.2999999999997,
+        "numOfCards": 13,
         "roles": [
             "admin"
         ],
@@ -14,7 +14,7 @@
         "username": "Krisz",
         "password": "$2y$10$bVMCZA4hHXTg1tm1xGuwCOJ\/9kqOgjB6yEJBbe5\/txIar4DM3v7tS",
         "email": "krisz@email.com",
-        "token": 1040,
+        "token": 1050,
         "numOfCards": 3,
         "roles": [
             "user"
@@ -33,5 +33,16 @@
         "id": "659e8d7617bb8",
         "numOfCards": 5,
         "messages": []
+    },
+    "66a8d8349e382": {
+        "username": "RPKrisz",
+        "password": "$2y$10$MhrtgA4cKnrYrRW6HlTomOe\/vraNzajXhDXUNOQiY99IQKIFCoegm",
+        "email": "rp.krisz123@gmail.com",
+        "token": 300,
+        "roles": [
+            "user"
+        ],
+        "id": "66a8d8349e382",
+        "numOfCards": 4
     }
 }
